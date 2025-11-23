@@ -1,0 +1,7 @@
+http:
+  address: "0.0.0.0:3225"
+  readTimeout: "5s"
+  writeTimeout: "10s"
+log:
+  level: "info"
+  type: "json"
